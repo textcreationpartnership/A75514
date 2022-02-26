@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Apostrophe from the loyal party to the Kings Most Sacred Majesty; humbly shewing how the next House of Commons by law may be purged of it's dis.affected members.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75514</idno>
+            <idno type="STC">Wing A3563</idno>
+            <idno type="STC">ESTC R170360</idno>
+            <idno type="EEBO-CITATION">45578124</idno>
+            <idno type="OCLC">ocm 45578124</idno>
+            <idno type="VID">172086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2613:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Apostrophe from the loyal party to the Kings Most Sacred Majesty; humbly shewing how the next House of Commons by law may be purged of it's dis.affected members.</title>
+               </titleStmt>
+               <extent>2 [i.e. 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, printer to the Kings Most Sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Error in paging: p. 4 misnumbered as "2."</note>
+                  <note>Reproduction of original in the California State Library, Sutro Branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172086:1"/>
+            <head>AN APOSTROPHE From the LOYAL PARTY To the Kings Moſt Sacred Majeſty; <hi>Humbly ſhewing how the next Houſe of Commons by Law may be purged of its diſ. affected Members.</hi>
+            </head>
+            <opener>
+               <salute>Great King.</salute>
+            </opener>
+            <p>WHom God has choſen to be his Anointed, and for whoſe Preſervation won<g ref="char:EOLhyphen"/>ders and miracles were done to that degree as to joy the Faith<g ref="char:EOLhyphen"/>ful, and confound the Incredulous; It was for this that God touched the heart of a Woman, and made her become ano<g ref="char:EOLhyphen"/>ther <hi>Judeth</hi> to paſs through the <hi>Aſſyrians</hi> Camp, at the ſame time that <hi>Bethulia</hi> was beſieged, to the end ſhe might deli<g ref="char:EOLhyphen"/>ver the Kingdom and People from the fury of the Enemy; <hi>Judeth</hi> deliver'd <hi>Be<g ref="char:EOLhyphen"/>thulia</hi> and her diſtreſſed People by carry<g ref="char:EOLhyphen"/>ing away the dead Head of the <hi>Aſſyrians</hi> General; and this delivers the People of three Kingdoms from the <hi>Slavery</hi> and <hi>Tyranny</hi> of Uſurpers, by bravely carry<g ref="char:EOLhyphen"/>ing away the living Head of theſe Three Kingdoms. It was for This that ſhe cou<g ref="char:EOLhyphen"/>ragiouſly <hi>look't Death in the Face,</hi> and expos'd her Life and Fortune to the worſt of Fates. It was for this that <hi>Gold</hi> was to Peaſants of no other value than <hi>Dirt,</hi> when it was only to be purchaſed by delivering up the Innocent into the hands of the Guilty. But that which makes it the more remarkable and wor<g ref="char:EOLhyphen"/>thy of admiration, is, That God ſhould make uſe of ſuch Inſtruments to effect Your Preſervation, as have now lately been Accuſed, Condemned and Sacrifi<g ref="char:EOLhyphen"/>ced, for attempting to deſtroy, You, whom (with the hazard of their Lives) they had formerly preſerved. Nay, for this it was, that even the <hi>Romiſh Prieſts</hi> themſelves were inſtrumental.</p>
+            <p>Sir, God took You out of the hands of your Enemies, at a time when all the world deſpair'd of ſeeing You ſeated on any other Throne than that on which Your Royal Father acted the laſt Scene of a Horrid and Bloudy Tragedy. Who can repeat the buying and ſelling of a King, the beſt that ever People had, and this by his own Vaſſals? his being ac<g ref="char:EOLhyphen"/>cuſed by them? his being betrayed by them? his being judged by them? his being condemned by them? and his be<g ref="char:EOLhyphen"/>ing murdered by them in the Face of Heaven and the whole World? Who (I ſay) can repeat theſe things with<g ref="char:EOLhyphen"/>out Horrour and Execration?</p>
+            <p>God miraculouſly delivered You out of the hands of <hi>a barbarous people,</hi> who ſought you for no other end than <hi>to de<g ref="char:EOLhyphen"/>ſtroy You;</hi> but he mercifully with-held the blow which all the world believ'd was inevitably falling on You; for there was no one could avert it but God alone: And he did it, that we might one day ſee you <hi>ſeated on the Throne of Glory.</hi> 'Tis true, he with-held You from Us for ſome time; but it was that You might <hi>return</hi> the more glorious and welcome, and to make Us ſenſible of the ill was done in <hi>baniſhing Him from us</hi> whom God had appointed to Rule &amp; Govern us.</p>
+            <p>I believe there are few alive now who liv'd then, who have forgotten <hi>the Ca<g ref="char:EOLhyphen"/>lamity this Kingdom groaned under at that time,</hi> and the ſad Cataſtrophe attended Your abſence.</p>
+            <p>It was a ſad thing to ſee <hi>your</hi> 3 <hi>King<g ref="char:EOLhyphen"/>doms governed by the Murderers of your Royal Father;</hi> to ſee <hi>Mechanicks</hi> ſeated in the Throne of <hi>Princes,</hi> and the giddy<g ref="char:EOLhyphen"/>headed <hi>Mobile</hi> to Lord it over the <hi>No<g ref="char:EOLhyphen"/>bility, Coblers</hi> &amp; <hi>Bricklayers</hi> turn <hi>Preach<g ref="char:EOLhyphen"/>ers,</hi> whilſt the Biſhops have their Roc<g ref="char:EOLhyphen"/>kets pull'd over their ears, and the beſt of the Clergy turn'd out of their Benefi<g ref="char:EOLhyphen"/>ces; at the ſame time their Wives and Children going a begging: to hear no<g ref="char:EOLhyphen"/>thing but <hi>Sedition</hi> &amp; <hi>Treaſon</hi> daily prea<g ref="char:EOLhyphen"/>ched out of the Pulpits; to ſee the <hi>Roy<g ref="char:EOLhyphen"/>al Party</hi> dance attendance every day to a
+<pb facs="tcp:172086:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172086:3"/>damn'd Committee, made up of a Com<g ref="char:EOLhyphen"/>pany of formal prick-ear'd Raskals, who had no other Religion than by ſiniſter ways to <hi>monopolize the Riches of the Na<g ref="char:EOLhyphen"/>tion,</hi> whilſt honeſt men turn'd Bank<g ref="char:EOLhyphen"/>rupts; to ſee thoſe men who had ſerv'd the King your Father with their Bloud and Fortunes, by theſe Governours Ba<g ref="char:EOLhyphen"/>niſhed, Impriſoned and Tortured, and for no other Crime than becauſe they had the honeſty to be <hi>Loyal;</hi> to ſee the beſt of theſe men forced to buy their own Eſtates three or four times over of theſe Villains, who had ſeized them as their own, whilſt other of the meaner ſort had not Bread to put in their Heads.</p>
+            <p>But God was pleaſed at his proper time to commiſerate our Sufferings, by out-doing his former Prodigies which were acted in your Preſervation, in re<g ref="char:EOLhyphen"/>ſtoring You to a People who lived with no other hope than deſpair of ever ſeeing You ſeated upon the Imperial Throne of <hi>Great Britain.</hi> Sir, 'tis undou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bed Your Reſtauration was decreed by Heaven, and to confirm which, God (as it were with his own hand) led You into Your Kingdoms, that there You might be made Sacred, and have your Temples incircled with a Crown; and then it was he con<g ref="char:EOLhyphen"/>ſigned a Scepter into Your Sacred hand, with which at the ſame time be com<g ref="char:EOLhyphen"/>manded You to Rule and Govern your People in the ſtrict obſervance of Juſtice and Equity; and after that perfect Mo<g ref="char:EOLhyphen"/>del which he himſelf hath left you, in his Sacred and Divine Laws, and not accor<g ref="char:EOLhyphen"/>ding to thoſe exorbitant Laws the igno<g ref="char:EOLhyphen"/>rant Rabble, and their Abettors would preſcribe you.</p>
+            <p>What joy was it at that time to all true <hi>Engliſh</hi> hearts to ſee You <hi>Return</hi> in Triumph from your long <hi>Exile?</hi> to ſee You not only received into your King<g ref="char:EOLhyphen"/>doms, but into the hearts of Your People; who looked upon You as no other than <hi>the Angel of Peace ſent by the living God to comfort an afflicted People and to redeem them from Slavery?</hi> It was then that we were all big with hopes no longer to ſee our Laws (which are the beſt in the world) trampled under foot by <hi>Tyrrani<g ref="char:EOLhyphen"/>cal <g ref="char:V">Ʋ</g>ſurpers:</hi> It vvas them that we gave our ſelves the aſſurance that we ſhould ſee <hi>Juſtice,</hi> and <hi>Mercy</hi> equally poyſed in one Ballance: and neither to out-weigh each other: It was then that we ex<g ref="char:EOLhyphen"/>pected to ſee Impiety baniſhed out of your Kingdoms, as an Impoſter, and Virtue rais'd to that Throne it deſerves, that is, <hi>to be ſeated on the right of Kings:</hi> And then it was that we be<g ref="char:EOLhyphen"/>liev'd that the Loyal i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhuld nobly be re<g ref="char:EOLhyphen"/>warded for their Fidelity and paſt Suf<g ref="char:EOLhyphen"/>ferings; and the <hi>Disloyal Traitor</hi> puni<g ref="char:EOLhyphen"/>ſhed, and for ever baniſhed from the Influence of your Bounty, the perfor<g ref="char:EOLhyphen"/>mance of which had eſtabliſh'd to Your People a Kingdom of <hi>Peace,</hi> and we ſhould have ſeen a <hi>Golden Age</hi> to flouriſh.</p>
+            <p>But, Sir, there are ſome men who are bold, and take leave to ſay, that your Clemencie and Mercie have infini<g ref="char:EOLhyphen"/>tely out-weighed the Scale of Juſtice; That you have miſ-placed your Bounty; And (they now begin to fear) You have Sacrificed your Friends to pleaſe your Enemies, And this they ſay hath alienated your Friends, and made their <hi>Loyal hearts</hi> grow cold, and freeze; And bold Mouths ſpit their Allegiance out: This hath ſo far prevailed upon your Enemies, as to perſwade them that their former ill-doings were well done, which makes them bold to act them o<g ref="char:EOLhyphen"/>ver again. Sir, ſuch are their proceed<g ref="char:EOLhyphen"/>ings, s make us fear you have delivered your Royal Scepter into their hands: And if ſo, you have made Your Self, and Friends one Sacrifice to the Furie and Malice of Your Enemies: So that we have nothing now in proſpect, but <hi>the Old Tragidie acted over again,</hi> where we behold a Stage filled with <hi>Rapine, Sword, Fire, Blood</hi> and <hi>Maſacres,</hi> with the Deſolation and Overthrovv of three Kingdoms.</p>
+            <p>
+               <hi>Dread Soveraign,</hi> You are the Object on which alll our eyes fixed: You are the Center in which the hopes and de<g ref="char:EOLhyphen"/>ſires of all <hi>Loyal hearts</hi> are lodged. <hi>Now is the time</hi> to make your ſelf a King, and us a happie people, <hi>or never</hi> if you put on an unſhaken Reſolution, You wil en. courage and ſtrengthen Your Friends to
+<pb facs="tcp:172086:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:172086:5"/>ſtand by you to the laſt; which we are reſolved to do, if you force us not from you: And this will not a little tame the inſolency of thoſe bad men who brand all thoſe who ſtand up for your Rights and Prerogatives with that ſcandalous Name <hi>Papiſt.</hi> All thoſe honeſt Gentle<g ref="char:EOLhyphen"/>men had a deſire to ſerve their Country, by being Parliamentmen, becauſe they oppoſed the <hi>Rump Faction,</hi> they and all their Friends were <hi>Papiſts, rank bare<g ref="char:EOLhyphen"/>fac'd Papiſts.</hi> If theſe men can make us <hi>Papiſts</hi> at this rate, vve ſhall have <hi>Pope<g ref="char:EOLhyphen"/>ry</hi> among us beforevve knovv vvhere vve are; and really I think we have no great reaſon to be ſo much afraid on't; for 'tis come to that, that you ſhall not hear of an <hi>honest Cavalier,</hi> nay ſcarce an honeſt man but preſently he is a <hi>Papiſt.</hi>
+            </p>
+            <p>Sir, you have been ſilent too long, there<g ref="char:EOLhyphen"/>fore ſince you have given us your Roy<g ref="char:EOLhyphen"/>al word, <hi>That our Laws ſhall be your Rule and Meaſure, by which You are reſolved to Govern,</hi> let us hear you roar like the King of Lions, when next you meet your Par<g ref="char:EOLhyphen"/>liament; cry <hi>ha!</hi> to them, and <hi>ha!</hi> again, till (like your Predeceſſor <hi>H.</hi> 8.) you make them tremble. Sir, remember you are as well King of <hi>France</hi> as <hi>England,</hi> therefore let not the <hi>French</hi> King be a greater Monarch than your ſelf; At leaſt for a time ſhew your ſelf as abſolute over your people as he is, ſince the Law is Your Meaſure, take off the head of that man who ſhall dare to open his lips to contra<g ref="char:EOLhyphen"/>dict it: And be aſſured that this way of Governing ſhall gain you more Friends in one day, than all your complyances <hi>to the unreaſonable demands of your Par<g ref="char:EOLhyphen"/>liament</hi> ſhall gain you in an Age.</p>
+            <p>Be pleaſed to take from the Commons that old Theme <hi>Religion,</hi> or elſe you muſt never expect any buſineſs to be done by them either for the good of your ſelf, or your Kingdom. If we muſt have a <hi>Change</hi> or <hi>Reformation,</hi> in our ſpiritual Govern<g ref="char:EOLhyphen"/>ment, let it be done by ſpiritual men, the Biſhops, and ſuch who underſtand what Religion is: But for ſuch men whoſe con<g ref="char:EOLhyphen"/>verſation is chiefly among Dogs &amp; Horſes, Women and Wine, to be perpetually ma<g ref="char:EOLhyphen"/>king new <hi>Reformations</hi> in Religion, is the moſt prepoſterous thing in the world.</p>
+            <p>What a monſtrous thing it is to ſee the Tail pretend to more Wiſdom and Un<g ref="char:EOLhyphen"/>derſtanding in Government than the Head! We have too ſadly experienced what it is to live under this damn'd <hi>Rump Government;</hi> therefore, for Heavens ſake, Sir, let us have no more on't.</p>
+            <p>Sir, as God was pleas'd to perform won<g ref="char:EOLhyphen"/>ders at your Preſervation and Reſtaura<g ref="char:EOLhyphen"/>tion, ſo hath he done no leſs al the time of your Government: For (ſetting aſide the precipice into which your Father fell, and in it was irrecoverably loſt, which ſtil lies open before the Gates of your Pa<g ref="char:EOLhyphen"/>lace, ſo that it is not poſſible for You to en<g ref="char:EOLhyphen"/>ter in, or out, but you muſt neceſſarily <hi>re<g ref="char:EOLhyphen"/>member your Fathers ſad fate.</hi> The Peal that theſe men daily ring in your ears, which was your Fathers Knell:) ſetting aſide, I ſay, theſe things: Heaven and Earth have conſpired dayly to alarm you, and bid you arm your ſelf againſt the Trea<g ref="char:EOLhyphen"/>cheries and dam'nd Conſpiracies, which are hourly acting againſt your Life and Government.</p>
+            <p>Sir, the firſt thing you are to do is to know your Enemies, and then to arm your ſelf againſt them: You cannot have forgotten thoſe men by whom Your Royal Father fell, and purſued you to Ba<g ref="char:EOLhyphen"/>niſhment; Theſe are the men, Sir, who ſtrike ſo boldlie at Your Crown, therefore beware Your Head: You cennot therefore perſwade your ſelf that the Murderers of of the Father can ever love the Son. But leſt Your Majeſtie ſhould miſtake theſe men, and think them to be your Friends, our famous <hi>Salamancha</hi> Doctor <hi>Oates</hi> hat hunmask 'd them unto You; For he ſayes, (and what he ſayes with us is Goſpel) <hi>That they are Papiſts in Ma<g ref="char:EOLhyphen"/>ſquerade, diſguiſed in the Habit and Man<g ref="char:EOLhyphen"/>ners of the Godlie Brethren.</hi> So that 'tis to be hop'd your Majeſtie will truſt none of them, nor anie thing that looks like this kind of Cattle. We humblie therefore beg that the next Parliament You will take a view of your Houſe of Commons, that You may know the Members of which it is compoſ'd; and if there be any of theſe diſguiſ'd Papiſts there, that they may be <hi>turn'd out,</hi> that is not a place for them; for the Law ſays, <hi>No Pae<g ref="char:EOLhyphen"/>piſt ſhal ſit in the Houſe.</hi> If therefore there be anie there who had their hands imbrewed in Your Fathers bloud, they are diſguiſed Papiſts, they muſt <hi>out</hi> alſo. If there be anie there who have un<g ref="char:EOLhyphen"/>ſheath'd their Swords againſt their law<g ref="char:EOLhyphen"/>ful
+<pb facs="tcp:172086:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172086:7"/>Sovereign, and appeared in <hi>open Re<g ref="char:EOLhyphen"/>bellion</hi> againſt him, they are the ſame, they muſt out too; for they are all Papiſts in Maſquerade. Or if there be any of the Sons of theſe men, they are the ſame fleſh and blood, and they'l prove themſelves no Baſtards i'l warrant you; they have ſuck'd in their Fathers <hi>Diſloyaltie</hi> and bloody Nature with their Milk, which 'tis to be feared they wil never dilgeſt ſo long as they have an hour to live; there<g ref="char:EOLhyphen"/>fore theſe muſt <hi>out</hi> too. And when the Houſe is thus purg'd of theſe kind of Cat<g ref="char:EOLhyphen"/>tel, we may hope to ſee good times again, and not till then: For believe it, Sir, they are ſo glutted with the Spoils, and Sweet of their <hi>laſt Rebellion,</hi> that they will now be <hi>Caeſars</hi> or nothing; which Heaven and your endeavours muſt pre<g ref="char:EOLhyphen"/>vent.</p>
+            <p>I could wiſh with all my ſoul that what the Prophet <hi>Iſaiah</hi> ſpoke of the Counſel<g ref="char:EOLhyphen"/>lors of King <hi>Pharaoh</hi> may not truly be verified in the people of this Nation. <hi>God hath ſent among them a ſpirit of giddineſs, and made them reel up and down in all their actions like drunken men.</hi>
+            </p>
+            <p>Sir, great and terrible are the menaces which God thunders out by the mouthof holy <hi>Job,</hi> againſt thoſe who wander from the true way of Juſtice. <hi>God</hi> (ſayes he) <hi>ſuffereth theſe wiſe Counſellors to fall into the hazards of ſenſeleſs men. God maketh the Judges ſtupid, taketh away the Sword and Belt from Kings to ingirt their Reins with a Cord; God maketh the Prieſts to appear Infamous, ſupplanteth the Principal of the people, changeth the lips of Truth<g ref="char:EOLhyphen"/>ſpeakers, taketh away the Doctrine of Old men, and pou eth out contempt upon Prin<g ref="char:EOLhyphen"/>ces,</hi> Job 12.</p>
+            <p>But that theſe things may not fal upon this Kingdom, &amp; that they may be time<g ref="char:EOLhyphen"/>ly prevented, be pleas'd, Great Sir, to hear the Counſel that a great Stateſman gave to the Governours of the Empire; and it is this:</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe the matters ſo that Judges of Pro<g ref="char:EOLhyphen"/>vinces may be very careful in the obſer<g ref="char:EOLhyphen"/>vance of Laws, that Tribunals ſpare not to thunder out Sentences againſt ill manners, but eſpecially againſt</hi> Falſe Witneſſes <hi>and</hi> Perjurers; <hi>That Thieves may fear the Gates of your Palace: That the Forgerer may feel horrour at the voice of a Herauld; And that all Crimes may be baniſhed from our Teritory: That no man oppreſſe the poor: That the perſecutors be apprehend<g ref="char:EOLhyphen"/>ed and purſued as diſturbers of the pu<g ref="char:EOLhyphen"/>lick repoſe: You ſhall make a general peace when you have beaten down the Authors of mischiefs which are committed: Let Captains contain their Souldiers in all man<g ref="char:EOLhyphen"/>ner of Diſcipline in ſuch ſort that the La<g ref="char:EOLhyphen"/>bourer, the Merchant, the Sailer, and Artificer, may underſtand Arms are not made but for their defence. I will not like<g ref="char:EOLhyphen"/>wiſe that my nearest Allies be pardoned in any cauſe of juſtice, ſince I have taken the Commonn ealth into my charge, I have di<g ref="char:EOLhyphen"/>ſpoyled my proper Intereſts,</hi> I <hi>wiſh well to mine, but in the generality.</hi>
+            </p>
+            <p>Sir, when we ſhall behold theſe things practiced within your Dominions, we ſhall conclude that all theſe prodigies which have been done in your Preſerva<g ref="char:EOLhyphen"/>tion and Reſtauration were peformed by Heaven for no other end than that you ſhould be that darling Prince to make your Kingdoms flouriſh, and Us a happy people, which we all promiſe our ſelves, and that we ſhall ſee you the greateſt of Monarchs. It was to Princes that the Angel in the <hi>Apocalypſe,</hi> ſpeaks theſe words: <hi>He who ſhall overcome and keep my works unto the end, I will give him power over Nations and he ſhall rule them with a Rod of Iron: and as the Veſſel of the Potter they ſhall be broken.</hi>
+            </p>
+            <closer>VIVAT REX.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed by the Heir of <hi>Andrew Anderſon,</hi> Prin<g ref="char:EOLhyphen"/>ter to the Kings moſt Sacred <hi>Majeſty,</hi> 1681.</p>
+            <pb facs="tcp:172086:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
